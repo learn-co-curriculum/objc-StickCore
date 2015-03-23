@@ -11,6 +11,8 @@ Learn some basics of Core Graphics and some UIKit convenience methods.
 
 ## Instructions
 
+There are no associated files or tests for this lab. Be creative. Remember what it was like to be in Kindergarten and have just learned C programming and shapes?
+
 1) Create a stick figure using CoreGraphics methods taught in class. It should have arms, legs, a head, and ideally some hair and a face!
 
 2) Randomize the size of the stick figure.
