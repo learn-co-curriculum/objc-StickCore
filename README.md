@@ -19,7 +19,7 @@ Learn some basics of Core Graphics and some UIKit convenience methods.
 
 4) Rotate it randomly so that each time you load up the view it is at a different rotation. Make sure it is basically upright still though!)
 
-5) Make many overlapping stick figures over your view!
+5) Make many overlapping stick figures over your view and add a button to make them refresh all of their random qualities.
 
 6) Make all stick figures have a shadow. Make sure the shadows do not overlap any of the smiley faces you create. 
 
