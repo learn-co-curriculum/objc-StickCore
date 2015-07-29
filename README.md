@@ -1,7 +1,4 @@
----
-tags: Core Graphics, DrawRect, UIKit
-languages: objc
----
+
 
 # StickCore
 
