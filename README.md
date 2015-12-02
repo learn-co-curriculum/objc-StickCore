@@ -39,3 +39,5 @@ If Core Graphics excites you...read up on how to create 3-D effects in a 2-D wor
 * Helper methods might be useful to create to save you some time with repetitive tasks!
 
 * Don't forget to release references you create yourself!
+
+<a href='https://learn.co/lessons/objc-StickCore' data-visibility='hidden'>View this lesson on Learn.co</a>
