@@ -40,4 +40,4 @@ If Core Graphics excites you...read up on how to create 3-D effects in a 2-D wor
 
 * Don't forget to release references you create yourself!
 
-<a href='https://learn.co/lessons/objc-StickCore' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-StickCore' title='StickCore'>StickCore</a> on Learn.co and start learning to code for free.</p>
